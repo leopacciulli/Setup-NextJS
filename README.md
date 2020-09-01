@@ -5,7 +5,7 @@
 <br>
 
 <h3 align="center">
-  Setup React.js usgin Next.js, TypeScript, ESLint and Styled Components
+  Setup React.js using Next.js, TypeScript, ESLint and Styled Components
 </h3>
 
 <br><br>
