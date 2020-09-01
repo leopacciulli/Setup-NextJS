@@ -12,7 +12,7 @@
 
 ````zsh
 # to run the project
-$ https://github.com/leopacciulli/Setup-NextJS.git
+$ git clone https://github.com/leopacciulli/Setup-NextJS.git
 
 # cd folder
 $ cd reactsetup
